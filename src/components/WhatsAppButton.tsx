@@ -12,7 +12,7 @@ export default function WhatsAppButton() {
       className="fixed bottom-6 right-6 bg-emerald-600 p-3 rounded-full shadow-lg hover:bg-emerald-700 transition-all transform hover:scale-110 z-40 flex items-center justify-center"
     >
       <img
-        src="/whatsapp.svg"
+        src="/Whatsapp.svg"
         alt="WhatsApp"
         className="w-8 h-8"
       />
